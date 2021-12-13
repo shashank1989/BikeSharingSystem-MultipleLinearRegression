@@ -66,7 +66,8 @@ BoomBikes aspires to understand the demand for shared bikes among the people aft
 
 - Year wise : In year 2019 we have 62.33 % of total Bike sharing
 - Month wise : Aug,June,Sep,July,May,Oct - from may to oct we have observe a upward trend in bike sharing
-- Highest no of bike sharing will be in fall season and then in summer and spring have least no of bike sharing. - 4. The above trend follows the same for every season i.e. for every season Fall have highest no of bike sharing then summer then winter and spring have least no of bike sharing
+- Highest no of bike sharing will be in fall season and then in summer and spring have least no of bike sharing.
+- The above trend follows the same for every season i.e. for every season Fall have highest no of bike sharing then summer then winter and spring have least no of bike sharing
 - Around 69.6% of bike sharing is use to be done on working days
 - HIghest no of bike sharing around 42% between temp 25-35 c and then 40% between 15 - 25 c
 - Temp 15-35 c constitutes to 82 percent of total bike sharing and count is increasing with the increase in temp
@@ -104,13 +105,13 @@ BoomBikes aspires to understand the demand for shared bikes among the people aft
 
 ### Significant Variables
 
--            temp
--            season(spring & winter)
--            yr(2019)
+-         temp
+-         season(spring & winter)
+-         yr(2019)
 -         mnth : May,Sep,Mar
 -         weathersit_Mist
--          mnth_oct
--           holiday
+-         mnth_oct
+-         holiday
 -         windspeed
 -         workingday
 -         humidity
